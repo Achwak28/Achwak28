@@ -1,20 +1,3 @@
-### Hi there! 👋 I'm Achouak Cherif
-
-## About Me
-I'm a passionate Full Stack Web Developer, specializing in the MERN stack. Eager to learn and always up for a coding challenge. Holding a Software Engineering diploma, I bring a blend of theoretical knowledge and hands-on experience.
-
-## 🔧 Technologies & Tools
-- Frontend: React, HTML, CSS
-- Backend: Node.js, Express
-- Database: MongoDB
-- Other: Git, VS Code, Firebase
-
-
-## 📫 Let's Connect
-Feel free to connect with me on [LinkedIn](insert LinkedIn profile) and check out my projects below!
-
-Happy coding! 🚀
-
 <div align="center">
   <img src="your_profile_image_url.jpg" alt="Achwak Cherif" width="200"/>
 
@@ -33,14 +16,14 @@ Happy coding! 🚀
 - RESTful APIs
 - Database Management
 
-## 🌱 Currently Learning
-Exploring [insert what you are learning] to enhance my skills.
+## 🌱 About me
+I'm a passionate Full Stack Web Developer, specializing in the MERN stack. Eager to learn and always up for a coding challenge. Holding a Software Engineering diploma, I bring a blend of theoretical knowledge and hands-on experience.
 
-## 🎯 Goals
-Striving towards [insert your career goals or project aspirations].
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](insert LinkedIn profile)
+
+Happy coding! 🚀
 </div>
 
 <!--
