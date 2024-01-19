@@ -1,5 +1,9 @@
 <div align="center">
   <img src="IMG_20231223_234854_057.jpg" alt="Achwak Cherif" width="200" style="border-radius: 50%" />
+  <div style="width: 200px; height: 200px; overflow: hidden; border-radius: 50%;">
+    <img 
+      src="IMG_20231223_234854_057.jpg" alt="Achwak Cherif" width="100%" />
+  </div>
 
 # 👋 Hi there, I'm Achwak Cherif - Full Stack Developer
 
