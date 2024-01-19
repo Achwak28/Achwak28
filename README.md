@@ -2,8 +2,8 @@
   <img src="IMG_20231223_234854_057.jpg" alt="Achwak Cherif" width="200" style="border-radius: 50%" />
 
 <div class="animated-image">
-    <img src="your_profile_image_1.jpg" alt="Achwak Cherif" width="200" class="animation-frame" />
-    <img src="your_profile_image_2.jpg" alt="Achwak Cherif" width="200" class="animation-frame" />
+    <img src="IMG_20231223_234854_057.jpg" alt="Achwak Cherif" width="200" class="animation-frame" />
+    <img src="IMG_20231223_234854_057.jpg" alt="Achwak Cherif" width="200" class="animation-frame" />
     <!-- Add more frames as needed -->
   </div>
 
