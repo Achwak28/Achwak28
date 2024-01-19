@@ -28,7 +28,7 @@ I'm a passionate Full Stack Web Developer, specializing in the MERN stack. Eager
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achwak-cherif) 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/cherif.achwak.1) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/achwak_cherif?igsh=d3htc2JwYXMyd3l1)
 
