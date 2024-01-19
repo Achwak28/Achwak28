@@ -27,7 +27,7 @@ I'm a passionate Full Stack Web Developer, specializing in the MERN stack. Eager
 
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](insert LinkedIn profile)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)(https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav)
 
 Happy coding! 🚀
 </div>
