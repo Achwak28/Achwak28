@@ -9,11 +9,6 @@ I'm a passionate Full Stack Web Developer, specializing in the MERN stack. Eager
 - Database: MongoDB
 - Other: Git, VS Code, Firebase
 
-## 🌱 Currently Learning
-I'm currently expanding my knowledge in [insert what you are learning].
-
-## 🚀 Goals
-My goal is to [insert your career goals or project aspirations].
 
 ## 📫 Let's Connect
 Feel free to connect with me on [LinkedIn](insert LinkedIn profile) and check out my projects below!
