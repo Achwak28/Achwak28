@@ -33,6 +33,12 @@
 - Responsive Web Design
 - RESTful APIs
 - Database Management
+## 🚀 Skills
+- 🌐 **Full Stack Web Development:** Crafting seamless and dynamic web applications from frontend to backend.
+- 📱 **Responsive Web Design:** Ensuring a delightful user experience across various devices and screen sizes.
+- 🚀 **RESTful APIs:** Designing and implementing robust and scalable APIs for efficient data communication.
+- 🛢️ **Database Management:** Structuring and optimizing databases to handle data effectively and securely.
+
 
 ## 🌱 About me
 I'm a passionate Full Stack Web Developer, specializing in the MERN stack. Eager to learn and always up for a coding challenge. Holding a Software Engineering diploma, I bring a blend of theoretical knowledge and hands-on experience.
