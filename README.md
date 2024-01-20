@@ -29,15 +29,11 @@
 
 
 ## 🚀 Skills
-- Full Stack Web Development
-- Responsive Web Design
-- RESTful APIs
-- Database Management
-## 🚀 Skills
 - 🌐 **Full Stack Web Development:** Crafting seamless and dynamic web applications from frontend to backend.
 - 📱 **Responsive Web Design:** Ensuring a delightful user experience across various devices and screen sizes.
 - 🚀 **RESTful APIs:** Designing and implementing robust and scalable APIs for efficient data communication.
 - 🛢️ **Database Management:** Structuring and optimizing databases to handle data effectively and securely.
+
 
 
 ## 🌱 About me
