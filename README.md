@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile_pic.png" alt="Achwak Cherif" width="200" />
+  <img src="IMG_20231223_234854_057.jpg" alt="Achwak Cherif" width="200" />
 
 
 
