@@ -29,8 +29,9 @@
 
 
 ## 🚀 Skills
+
  🌐 **Full Stack Web Development:** Crafting seamless and dynamic web applications from frontend to backend.
- -
+ 
  📱 **Responsive Web Design:** Ensuring a delightful user experience across various devices and screen sizes.
  
  🚀 **RESTful APIs:** Designing and implementing robust and scalable APIs for efficient data communication.
