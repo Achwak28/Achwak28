@@ -1,11 +1,7 @@
 <div align="center">
   <img src="IMG_20231223_234854_057.jpg" alt="Achwak Cherif" width="200" style="border-radius: 50%" />
 
-<div class="animated-image">
-    <img src="IMG_20231223_234854_057.jpg" alt="Achwak Cherif" width="200" class="animation-frame" />
-    <img src="IMG_20231223_234854_057.jpg" alt="Achwak Cherif" width="200" class="animation-frame" />
-    <!-- Add more frames as needed -->
-  </div>
+
 
 # 👋 Hi there, I'm Achwak Cherif - Full Stack Developer
 
@@ -45,27 +41,7 @@ I'm a passionate Full Stack Web Developer, specializing in the MERN stack. Eager
 Happy coding! 🚀
 </div>
 
-<style>
-  .animated-image {
-    position: relative;
-    width: 200px;
-    height: 200px;
-    overflow: hidden;
-    border-radius: 50%;
-  }
 
-  .animation-frame {
-    position: absolute;
-    top: 0;
-    left: 0;
-    opacity: 0;
-    transition: opacity 0.5s ease-in-out;
-  }
-
-  .animated-image:hover .animation-frame {
-    opacity: 1;
-  }
-</style>
 <!--
 **Achwak28/Achwak28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
