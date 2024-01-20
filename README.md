@@ -51,6 +51,8 @@ I'm a passionate Full Stack Web Developer, specializing in the MERN stack. Eager
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/achwak_cherif?igsh=d3htc2JwYXMyd3l1)
 
 Happy coding! 🚀
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Achwak28.visitor-badge)
+
 </div>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Achwak28.visitor-badge)
