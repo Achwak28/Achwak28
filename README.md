@@ -53,6 +53,9 @@ I'm a passionate Full Stack Web Developer, specializing in the MERN stack. Eager
 Happy coding! 🚀
 </div>
 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Achwak28.visitor-badge)
+
+
 
 <!--
 **Achwak28/Achwak28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
