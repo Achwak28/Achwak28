@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Hey there 👋 I'm Achouak Cherif</h1>
-<h3 align="center">💻 .NET Developer | Full Stack Engineer | SaaS Builder</h3>
+<h3 align="center">💻 Software Engineer | Full Stack Developer | Web & SaaS Builder</h3>
 
 ###
 
@@ -72,7 +72,7 @@ I'm a Software Engineer from Algeria 🇩🇿 specializing in backend and web de
   <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img width="8"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
   <img width="8"/>
 
   <!-- Database -->
