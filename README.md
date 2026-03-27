@@ -85,7 +85,7 @@ I'm a passionate developer from Algeria 🇩🇿 focused on building real-world 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Achwak28/Achwak28/output/snake.svg" alt="Snake animation" />
+![Snake Animation](https://raw.githubusercontent.com/Achwak28/Achwak28/output/github-contribution-grid-snake-dark.svg)
 
 
 ###
